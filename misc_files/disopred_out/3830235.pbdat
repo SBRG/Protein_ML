@@ -1,0 +1,66 @@
+#                  ----- DISOPRED version 3.1 -----
+#     Protein binding site prediction within disordered regions
+#   Protein-binding disordered residues are marked with carets (^)
+# Disordered residues not binding proteins are marked with dashes (-)
+#            Ordered amino acids are marked with dots (.)
+    1 L .   NA
+    2 Y .   NA
+    3 R .   NA
+    4 A .   NA
+    5 G .   NA
+    6 V .   NA
+    7 A .   NA
+    8 F .   NA
+    9 F .   NA
+   10 H .   NA
+   11 L .   NA
+   12 Q .   NA
+   13 D .   NA
+   14 Y .   NA
+   15 D .   NA
+   16 Q .   NA
+   17 A .   NA
+   18 R .   NA
+   19 H .   NA
+   20 Y .   NA
+   21 L .   NA
+   22 L .   NA
+   23 A .   NA
+   24 A .   NA
+   25 V .   NA
+   26 N .   NA
+   27 R .   NA
+   28 Q .   NA
+   29 P .   NA
+   30 K .   NA
+   31 D .   NA
+   32 A .   NA
+   33 N .   NA
+   34 V .   NA
+   35 R .   NA
+   36 R .   NA
+   37 Y .   NA
+   38 L .   NA
+   39 Q .   NA
+   40 L .   NA
+   41 T .   NA
+   42 Q .   NA
+   43 S .   NA
+   44 E .   NA
+   45 L .   NA
+   46 S .   NA
+   47 S .   NA
+   48 Y .   NA
+   49 H .   NA
+   50 R .   NA
+   51 K .   NA
+   52 E .   NA
+   53 K .   NA
+   54 Q .   NA
+   55 L .   NA
+   56 Y .   NA
+   57 L .   NA
+   58 G .   NA
+   59 M .   NA
+   60 F .   NA
+   61 G .   NA

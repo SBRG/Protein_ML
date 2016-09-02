@@ -1,0 +1,55 @@
+#                  ----- DISOPRED version 3.1 -----
+#     Protein binding site prediction within disordered regions
+#   Protein-binding disordered residues are marked with carets (^)
+# Disordered residues not binding proteins are marked with dashes (-)
+#            Ordered amino acids are marked with dots (.)
+    1 S ^ 0.93
+    2 H ^ 0.94
+    3 A ^ 0.96
+    4 H ^ 0.95
+    5 S ^ 0.93
+    6 H ^ 0.89
+    7 A ^ 0.88
+    8 H ^ 0.92
+    9 G ^ 0.91
+   10 A ^ 0.89
+   11 S ^ 0.95
+   12 Q ^ 0.94
+   13 G ^ 0.88
+   14 S ^ 0.89
+   15 C ^ 0.86
+   16 H ^ 0.93
+   17 S ^ 0.94
+   18 S ^ 0.91
+   19 D ^ 0.92
+   20 H ^ 0.86
+   21 S ^ 0.86
+   22 H ^ 0.68
+   23 S ^ 0.93
+   24 H ^ 0.91
+   25 H ^ 0.90
+   26 M ^ 0.86
+   27 H ^ 0.83
+   28 G ^ 0.88
+   29 H ^ 0.76
+   30 S ^ 0.85
+   31 D ^ 0.70
+   32 H ^ 0.81
+   33 G ^ 0.74
+   34 H ^ 0.72
+   35 G ^ 0.76
+   36 H ^ 0.78
+   37 S ^ 0.83
+   38 H ^ 0.80
+   39 G ^ 0.83
+   40 S ^ 0.74
+   41 A ^ 0.81
+   42 G ^ 0.80
+   43 G ^ 0.90
+   44 G ^ 0.93
+   45 M ^ 0.93
+   46 N ^ 0.94
+   47 A ^ 0.97
+   48 N ^ 0.97
+   49 M ^ 0.95
+   50 R ^ 0.93

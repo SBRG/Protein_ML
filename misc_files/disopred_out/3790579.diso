@@ -1,0 +1,30 @@
+#         ----- DISOPRED version 3.1 -----
+# Disordered residues are marked with asterisks (*)
+#    Ordered residues are marked with dots (.)
+    1 H * 0.55
+    2 M . 0.33
+    3 S . 0.23
+    4 V . 0.18
+    5 S . 0.11
+    6 N . 0.08
+    7 V . 0.05
+    8 G . 0.06
+    9 R . 0.04
+   10 L . 0.03
+   11 S . 0.02
+   12 L . 0.02
+   13 V . 0.01
+   14 F . 0.01
+   15 L . 0.01
+   16 I . 0.01
+   17 L . 0.01
+   18 I . 0.01
+   19 D . 0.01
+   20 I . 0.01
+   21 R . 0.01
+   22 E . 0.01
+   23 F . 0.02
+   24 T . 0.03
+   25 L . 0.05
+   26 V . 0.10
+   27 K . 0.20
