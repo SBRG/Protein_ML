@@ -1,0 +1,40 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+graph [ranksep=equally, splines=polyline] ;
+edge [fontname=helvetica] ;
+0 [label="Isoelectric Point <= 9.401\nsamples = 22603\nvalue = [11301, 11302]\nclass = Low Expr", fillcolor="#399de500"] ;
+1 [label="Grand Average Value
+of Hydropathy <= -0.0328\nsamples = 18305\nvalue = [9900, 8405]\nclass = High Expr", fillcolor="#e5813927"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="% Polar Residues <= 0.3474\nsamples = 14918\nvalue = [8671, 6247]\nclass = High Expr", fillcolor="#e5813947"] ;
+1 -> 2 ;
+3 [label="samples = 7629\nvalue = [3904, 3725]\nclass = High Expr", fillcolor="#e581390c"] ;
+2 -> 3 ;
+4 [label="samples = 7289\nvalue = [4767, 2522]\nclass = High Expr", fillcolor="#e5813978"] ;
+2 -> 4 ;
+5 [label="% Leucine <= 0.1043\nsamples = 3387\nvalue = [1229, 2158]\nclass = Low Expr", fillcolor="#399de56e"] ;
+1 -> 5 ;
+6 [label="samples = 1130\nvalue = [569, 561]\nclass = High Expr", fillcolor="#e5813904"] ;
+5 -> 6 ;
+7 [label="samples = 2257\nvalue = [660, 1597]\nclass = Low Expr", fillcolor="#399de596"] ;
+5 -> 7 ;
+8 [label="% Polar Residues <= 0.3904\nsamples = 4298\nvalue = [1401, 2897]\nclass = Low Expr", fillcolor="#399de584"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="% Leucine <= 0.1166\nsamples = 3438\nvalue = [993, 2445]\nclass = Low Expr", fillcolor="#399de597"] ;
+8 -> 9 ;
+10 [label="samples = 2288\nvalue = [756, 1532]\nclass = Low Expr", fillcolor="#399de581"] ;
+9 -> 10 ;
+11 [label="samples = 1150\nvalue = [237, 913]\nclass = Low Expr", fillcolor="#399de5bd"] ;
+9 -> 11 ;
+12 [label="Grand Average Value
+of Hydropathy <= -0.7505\nsamples = 860\nvalue = [408, 452]\nclass = Low Expr", fillcolor="#399de519"] ;
+8 -> 12 ;
+13 [label="samples = 363\nvalue = [210, 153]\nclass = High Expr", fillcolor="#e5813945"] ;
+12 -> 13 ;
+14 [label="samples = 497\nvalue = [198, 299]\nclass = Low Expr", fillcolor="#399de556"] ;
+12 -> 14 ;
+{rank=same ; 0} ;
+{rank=same ; 1; 8} ;
+{rank=same ; 2; 5; 9; 12} ;
+{rank=same ; 3; 4; 6; 7; 10; 11; 13; 14} ;
+}
