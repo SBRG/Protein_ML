@@ -1,0 +1,6 @@
+,Logistic Regression_0,Logistic Regression_1,Logistic Regression_2,Logistic Regression_3,Logistic Regression_4,Support Vector Classifier_0,Support Vector Classifier_1,Support Vector Classifier_2,Support Vector Classifier_3,Support Vector Classifier_4,Random Forest Classifier_0,Random Forest Classifier_1,Random Forest Classifier_2,Random Forest Classifier_3,Random Forest Classifier_4,Deep Neural Network_0,Deep Neural Network_1,Deep Neural Network_2,Deep Neural Network_3,Deep Neural Network_4,Ensemble Model_0,Ensemble Model_1,Ensemble Model_2,Ensemble Model_3,Ensemble Model_4
+Accuracy,0.672,0.667,0.675,0.683,0.665,0.672,0.668,0.673,0.686,0.664,0.687,0.679,0.685,0.702,0.677,0.686,0.69,0.686,0.703,0.687,0.696,0.692,0.701,0.714,0.697
+Precision,0.662,0.671,0.665,0.695,0.658,0.662,0.671,0.663,0.698,0.657,0.666,0.675,0.67,0.698,0.662,0.641,0.653,0.642,0.664,0.643,0.663,0.669,0.67,0.689,0.663
+F1 Score,0.666,0.673,0.679,0.688,0.665,0.665,0.674,0.678,0.691,0.664,0.691,0.69,0.694,0.719,0.685,0.715,0.73,0.724,0.747,0.723,0.712,0.72,0.722,0.743,0.72
+Recall,0.669,0.675,0.694,0.68,0.672,0.669,0.677,0.694,0.684,0.67,0.718,0.706,0.719,0.742,0.709,0.807,0.828,0.829,0.854,0.825,0.77,0.779,0.783,0.806,0.788
+AUC,0.741,0.729,0.735,0.751,0.734,0.741,0.729,0.735,0.751,0.734,0.751,0.738,0.747,0.765,0.747,0.765,0.754,0.758,0.779,0.762,0.769,0.756,0.761,0.784,0.765
