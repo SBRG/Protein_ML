@@ -1,4 +1,4 @@
-# ML_HPA
+# Protein_ML
 
 This repository serves as a template for machine learning on high-throughput expression and solubility data.
 
